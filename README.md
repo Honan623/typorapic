@@ -1,2 +1,2 @@
 # typorapic
-joplin+typora图床专用
+typora图床专用
